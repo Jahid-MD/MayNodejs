@@ -6,7 +6,7 @@ const MongoClient = mongo.MongoClient;
 const bodyParser = require('body-parser');
 const cors = require('cors');
 
-const mongourl = "mongodb+srv://dev:mongo123@cluster0.f8vmc.mongodb.net/edurekinternship?retryWrites=true&w=majority";
+const mongourl="mongodb+srv://Admin:UweqDIynXI0LYT28@cluster0.cmqnk.mongodb.net/edunov?retryWrites=true&w=majority";
 let db;
 
 app.use(cors());
